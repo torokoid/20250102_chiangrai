@@ -142,8 +142,10 @@ p.note { display: none; }
 <h2><span class="yellow">収穫したカカオは機械で大きさ別に選別<br>画像のクリックで選別動画に飛びます</span></h2>
 <a href="https://youtube.com/shorts/gtF7ugoOjtc?feature=share" target="_blank"><img src="20250103_004.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br>
+<h2><span class="yellow">カカオの出荷先は、Utsunomiya, Japan ！</span></h2>
 
-<br><br><br>
+<br><br><br><br><br>
 <h2><span class="yellow">
 <a href="https://torokoid.github.io/20241126_chiangrai/" target="_blank">Back to the menu page</a>
 </span></h2>
