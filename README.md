@@ -137,6 +137,8 @@ p.note { display: none; }
 
 <a href="20250103_001.JPG" target="_blank"><img src="20250103_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250103_002.JPG" target="_blank"><img src="20250103_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">カカオの大きさは大小さまざま</span></h2>
 <a href="20250103_003.JPG" target="_blank"><img src="20250103_003.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">収穫したカカオは機械で大きさ別に選別<br>画像のクリックで選別動画に飛びます</span></h2>
