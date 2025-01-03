@@ -143,7 +143,7 @@ p.note { display: none; }
 <a href="https://youtube.com/shorts/gtF7ugoOjtc?feature=share" target="_blank"><img src="20250103_004.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
-<h2><span class="yellow">カカオの出荷先は、Utsunomiya, Japan ！</span></h2>
+<h2><span class="yellow">カカオの出荷先はなんと、Utsunomiya, Japan ！</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
