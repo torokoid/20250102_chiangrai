@@ -132,8 +132,15 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">タイの年末年始は、お空が賑やかです<br>ろうそくの火であげる紙気球がオレンジ色の点でふわふわしてます</span></h2>
+<h2><span class="yellow">以前刈り取って天日干ししていたカカオの豆を収穫します<br>画像のクリックで刈り取り時のHPに飛びます</span></h2>
+<a href="https://torokoid.github.io/20241220_chiangrai/" target="_blank"><img src="https://torokoid.github.io/20241220_chiangrai/IMG_1941.jpeg" alt="サンプル画像" width="900" /></a>
 
+<a href="20250103_001.JPG" target="_blank"><img src="20250103_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250103_002.JPG" target="_blank"><img src="20250103_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250103_003.JPG" target="_blank"><img src="20250103_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">収穫したカカオは機械で大きさ別に選別<br>画像のクリックで選別動画に飛びます</span></h2>
+<a href="https://youtube.com/shorts/gtF7ugoOjtc?feature=share" target="_blank"><img src="20250103_004.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br>
